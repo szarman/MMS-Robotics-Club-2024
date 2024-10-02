@@ -23,3 +23,14 @@ Repo for hosting common code functions, team projects, and test code
 
 ![Alt text](IMG/Command_clone.png)
 
+## Commit Updates
+
+Updates are done locally on your computer, change, add, update anything in the folder.  Once it is tested, or working you can push it to GitHub with the following commands (there is also a desktop GitHub client to make it easier but I will start here because it is really just 3 commands)
+
+   1) Open Windows Command Prompt
+   2) Go to file path where your GitHub repo exist (mine is in C:\CVSHome you will change that to wherever it resides on your PC) by typing "cd C:\CVSHome"
+   3) Type "git add ."
+   4) Type "git commit -m "comment about what is changing"
+   5) Type "git push"
+
+![Alt text](IMG/command_commit.png)
