@@ -34,3 +34,5 @@ Updates are done locally on your computer, change, add, update anything in the f
    5) Type "git push"
 
 ![Alt text](IMG/command_commit.png)
+
+At this point everything that you did is safely stored in the cloud.  Other people can clone it, or pull updates into their local folder.
