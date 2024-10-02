@@ -2,15 +2,15 @@
 
 Repo for hosting common code functions, team projects, and test code
 
-##IDE
+## IDE
    VEX IQ https://codeiq.vex.com/
    Version: VEXcode IQ 4.0.5-1
 
 ![Alt text](IMG/vex-iq-version.png)
 
-##Getting Started
+## Getting Started
 
-###Clone Repo
+### Clone Repo
    1) Navigate to Repo in your browser
    2) Click the Code button
    3) Click the copy button
